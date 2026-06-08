@@ -1,0 +1,10 @@
+Analysis Report for: check_images
+==================================================
+Filename                       | Status          | Analysis                      
+--------------------------------------------------------------------------------
+823d3704a309e89ddac74bdb29463ab3 - Copy.png | DEEPFAKE        | Tampered. ID: Secu`eC MW 1 [Map: 823d3704a309e89ddac74bdb29463ab3 - Copy_map.png]
+823d3704a309e89ddac74bdb29463ab3.png | ORIGINAL        | Match: SecureCam_01
+xegmX4OK_400x400.png           | UNKNOWN         | No Watermark Detected
+xegmX4OK_400x400_map.png       | UNKNOWN         | No Watermark Detected
+==================================================
+Summary: Original=1, Deepfake=1, Unknown=2

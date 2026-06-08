@@ -1,0 +1,7 @@
+Analysis Report for: deepfakes
+==================================================
+Filename                       | Status          | Analysis                      
+--------------------------------------------------------------------------------
+attacked_compressed.jpg        | UNKNOWN         | No Watermark Detected
+==================================================
+Summary: Original=0, Deepfake=0, Unknown=1

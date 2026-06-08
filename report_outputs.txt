@@ -1,0 +1,12 @@
+Analysis Report for: outputs
+==================================================
+Filename                       | Status          | Analysis                      
+--------------------------------------------------------------------------------
+1316057.png                    | ORIGINAL        | Match: SecureCam_01
+1316061.png                    | ORIGINAL        | Match: SecureCam_01
+1890271.png                    | ORIGINAL        | Match: SecureCam_01
+5243671.png                    | ORIGINAL        | Match: SecureCam_01
+5243679.png                    | ORIGINAL        | Match: SecureCam_01
+peakpx.png                     | ORIGINAL        | Match: SecureCam_01
+==================================================
+Summary: Original=6, Deepfake=0, Unknown=0
